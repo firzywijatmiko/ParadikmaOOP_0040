@@ -12,7 +12,7 @@ public:
 	//void perkenalan() {
 	//	cout << "halo saya funtion dari drived class";
 	//}
-};
+}; 
 int main() {
 	drivedclass a;
 	a.perkenalan();
