@@ -16,5 +16,5 @@ public:
 int main() {
 	drivedclass a;
 	a.perkenalan();
-	return 0;
+	return 0; 
 }
