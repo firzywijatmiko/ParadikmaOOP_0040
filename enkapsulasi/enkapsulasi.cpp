@@ -9,7 +9,7 @@ public:
 		saklarno[i] = value;
 	}
 	string getsaklarno(int i) {
-		return saklarno[i];
+		return saklarno[i]; 
 	}
 };
 int main() {
