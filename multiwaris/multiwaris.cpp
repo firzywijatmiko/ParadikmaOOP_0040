@@ -26,7 +26,7 @@ public:
 
 	pelajar(int pUmur) :
 		pekerja(pUmur),
-		pelajar(pUmur),
+		pelajar(pUmur), 
 		orang(pUmur) //hal ini dapat dilakukan jika menggunakan virtual 
 	{
 		cout << "budi dibuat\n" << endl;
